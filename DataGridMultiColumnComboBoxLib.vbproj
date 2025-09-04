@@ -12,7 +12,9 @@
 		<Authors>dhyudanie</Authors>
 		<Company>dhyudanie</Company>
 		<Description>Multi-column ComboBox for WinForms DataGridView (VB.NET).</Description>
-		<PackageProjectUrl>https://github.com/dhyudanie/DataGridMultiColumnComboBoxLib</PackageProjectUrl>
+		<PackageLicenseExpression>MIT</PackageLicenseExpression>
+		<PackageReadmeFile>README.md</PackageReadmeFile>
+  		<PackageProjectUrl>https://github.com/dhyudanie/DataGridMultiColumnComboBoxLib</PackageProjectUrl>
 		<RepositoryUrl>https://github.com/dhyudanie/DataGridMultiColumnComboBoxLib</RepositoryUrl>
 		<PackageTags>WinForms ComboBox DataGridView VB.NET</PackageTags>
 	</PropertyGroup>
