@@ -1,20 +1,20 @@
 ﻿<Project Sdk="Microsoft.NET.Sdk">
 
-  <PropertyGroup>
-	  
-    <RootNamespace>DataGridMultiColumnComboBoxLib</RootNamespace>
-    <TargetFramework>net8.0-windows</TargetFramework>
-	<UseWindowsForms>true</UseWindowsForms>
-	<EnableWindowsTargeting>true</EnableWindowsTargeting>
-	  <GeneratePackageOnBuild>true</GeneratePackageOnBuild>
-	  <PackageId>DataGridMultiColumnComboBox</PackageId>
-	  <Version>1.0.0</Version>
-	  <Authors>Dian Herdian</Authors>
-	  <Company>Dian Herdian</Company>
-	  <Description>Custom WinForms DataGridView ComboBox dengan with multi column and drop-down width adjustment.</Description>
-	  <PackageTags>winforms datagridview combobox multicolumn ui</PackageTags>
-	  <RepositoryUrl>https://github.com/dhyudanie/DataGridMultiColumnComboBoxLib</RepositoryUrl>
+	<PropertyGroup>
+		<TargetFramework>net8.0-windows</TargetFramework>
+		<UseWindowsForms>true</UseWindowsForms>
+		<EnableWindowsTargeting>true</EnableWindowsTargeting>
 
-  </PropertyGroup>
+		<!-- NuGet Metadata -->
+		<GeneratePackageOnBuild>true</GeneratePackageOnBuild>
+		<PackageId>DataGridMultiColumnComboBoxLib</PackageId>
+		<Version>1.0.0</Version>
+		<Authors>dhyudanie</Authors>
+		<Company>dhyudanie</Company>
+		<Description>Multi-column ComboBox for WinForms DataGridView (VB.NET).</Description>
+		<PackageProjectUrl>https://github.com/dhyudanie/DataGridMultiColumnComboBoxLib</PackageProjectUrl>
+		<RepositoryUrl>https://github.com/dhyudanie/DataGridMultiColumnComboBoxLib</RepositoryUrl>
+		<PackageTags>WinForms ComboBox DataGridView VB.NET</PackageTags>
+	</PropertyGroup>
 
 </Project>
